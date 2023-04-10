@@ -1,0 +1,9 @@
+DEHVILS DR1 Light Curves
+Peterson et al. 2023
+------------------------
+LCs are given in SNANA format.
+REDSHIFT_HELIO - Heliocentric Redshift
+REDSHIFT_FINAL - CMB Redshift
+SEARCH_PEAKMJD - An estimate of the peak MJD
+	         Optically fitted Peak MJD values are given in Table 5
+Image filters are WFCAM Y,J,H
